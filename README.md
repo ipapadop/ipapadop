@@ -1,6 +1,6 @@
 ## Hi, I'm Yiannis
 
-I'm mostly into supercomputing, C++, and AI. I received my Ph.D. for my work on runtime systems for HPC systems from [Texas A&M University](https://www.tamu.edu/); you can find my dissertation at the [Texas A&M University Libraries](https://scholars.library.tamu.edu/vivo/display/nde41f596/Documents/View%20All).
+I mostly focus on supercomputing, C++, and AI. I received my Ph.D. for my work on runtime systems for HPC systems from [Texas A&M University](https://www.tamu.edu/); you can find my dissertation at the [Texas A&M University Libraries](https://scholars.library.tamu.edu/vivo/display/nde41f596/Documents/View%20All).
 
 These days I am a software engineer at [AMD Research and Advanced Development (RAD)](https://www.amd.com/en/corporate/research.html).
 
@@ -8,10 +8,10 @@ These days I am a software engineer at [AMD Research and Advanced Development (R
 
 ### 👷 Notable Work
 
-- [**intellikit**](https://github.com/AMDResearch/intellikit) (as [ypapadop-amd](https://github.com/ypapadop-amd)): I've been building intellikit, a suite of Model Context Protocol (MCP) servers that give LLMs structured access to performance engineering workflows, bridging the gap between AI assistants and software optimization for AMD products.
-- [**ROCr**](https://github.com/ROCm/rocm-systems/tree/develop/projects/rocr-runtime) (as [ypapadop-amd](https://github.com/ypapadop-amd)): I contribute to the foundational layers of the ROCm ecosystem - most recently extending the ROCm Runtime (ROCr) to expose AMD's XDNA NPU architecture, bringing AI accelerator support into the same runtime fabric that drives GPU compute.
+- [**intellikit**](https://github.com/AMDResearch/intellikit) (as [ypapadop-amd](https://github.com/ypapadop-amd)): I've been building IntelliKit, a suite of tools, such as skills and Model Context Protocol (MCP) servers, that give LLMs structured access to performance engineering workflows, bridging the gap between AI assistants and software optimization for AMD products.
+- [**ROCr**](https://github.com/ROCm/rocm-systems/tree/develop/projects/rocr-runtime) (as [ypapadop-amd](https://github.com/ypapadop-amd)): I contribute to the foundational layers of the ROCm ecosystem - most recently extending the ROCm Runtime (ROCr) to expose AMD's XDNA NPU architecture, bringing AI accelerator support into the same runtime that drives GPU compute.
 - [**MLIR-AIE**](https://github.com/Xilinx/mlir-aie) and [**IRON**](https://github.com/amd/IRON) (as [ypapadop-amd](https://github.com/ypapadop-amd)): Contributing to IRON, a close-to-metal toolkit that empowers performance engineers to create fast and efficient designs for Ryzen™ AI NPUs powered by AI Engines.
-- [**STAPL**](https://parasol-lab.gitlab.io/stapl-home/): I developed the STAPL Runtime System (STAPL-RTS) which is the platform abstraction layer of the [STAPL framework](http://parasol-lab.gitlab.io/stapl-home/), a parallel superset of the C++ Standard Template Library. STAPL-RTS offers seemless parallel algorithm composition for large-scale computations by introducing asynchronous nested parallelism support. It provides a novel consistency model, and a unified distributed/shared memory communication and task scheduling primitives. The work demonstrated that parallel algorithm composition at scale doesn't sacrifice programmability. STAPL-RTS was developed as part of my Ph.D. dissertation under the supervision of [Dr. Lawrence Rauchwerger](https://parasollab.web.illinois.edu/people/rwerger/).
+- [**STAPL**](https://parasol-lab.gitlab.io/stapl-home/): I developed the STAPL Runtime System (STAPL-RTS) which is the platform abstraction layer of the [STAPL framework](https://gitlab.com/parasol-lab/stapl), a parallel superset of the C++ Standard Template Library. STAPL-RTS offers seemless parallel algorithm composition for large-scale computations by introducing asynchronous nested parallelism support. It provides a novel consistency model, and a unified distributed/shared memory communication and task scheduling primitives. The work demonstrated that parallel algorithm composition at scale doesn't sacrifice programmability. STAPL-RTS was developed as part of my Ph.D. dissertation under the supervision of [Dr. Lawrence Rauchwerger](https://parasollab.web.illinois.edu/people/rwerger/).
 
 ---
 
