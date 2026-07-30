@@ -10,13 +10,15 @@ I earned my Ph.D. from [Texas A&M University](https://www.tamu.edu/), researchin
 
 ### 👷 Notable Work
 
-- **[IntelliKit](https://github.com/AMDResearch/intellikit)** - Building skills and MCP servers that give AI agents structured access to performance-engineering workflows.
-
 - **[ROCR](https://github.com/ROCm/rocm-systems/tree/develop/projects/rocr-runtime)** - Extending the ROCm runtime to support AMD XDNA accelerators alongside GPU compute.
 
 - **[MLIR-AIE](https://github.com/Xilinx/mlir-aie) & [IRON](https://github.com/amd/IRON)** - Contributing to close-to-metal programming tools for Ryzen™ AI NPUs and AI Engines.
 
+- **[IntelliKit](https://github.com/AMDResearch/intellikit)** - Building skills and MCP servers that give AI agents structured access to performance-engineering workflows.
+
 - **[STAPL](https://parasol-lab.gitlab.io/stapl-home/)** - Developed its runtime system (STAPL-RTS), including asynchronous nested parallelism and unified shared- and distributed-memory execution. This work was developed as part of my Ph.D. dissertation under the supervision of [Dr. Lawrence Rauchwerger](https://parasollab.web.illinois.edu/people/rwerger/).
+
+- **[deferred](https://github.com/ipapadop/deferred)** - Deferred evaluation expressions for modern C++23.
 
 - **[leafwiki-mcp](https://github.com/ipapadop/leafwiki-mcp)** - Created an MCP server that enables agents to use LeafWiki as persistent memory.
 
