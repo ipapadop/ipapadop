@@ -12,7 +12,7 @@ I earned my Ph.D. from [Texas A&M University](https://www.tamu.edu/), researchin
 
 - **[ROCR](https://github.com/ROCm/rocm-systems/tree/develop/projects/rocr-runtime)** - Leading the effort to extend the ROCm runtime to support AMD XDNA accelerators alongside GPU compute.
 
-- **[MLIR-AIE](https://github.com/Xilinx/mlir-aie) & [IRON](https://github.com/amd/IRON)** - Contributing to close-to-metal programming tools for Ryzen™ AI NPUs and AI Engines.
+- **[MLIR-AIE](https://github.com/Xilinx/mlir-aie), [IRON](https://github.com/amd/IRON), [Triton-XDNA](https://github.com/amd/Triton-XDNA)** - Contributing to programming tools for Ryzen™ AI NPUs and AI Engines.
 
 - **[IntelliKit](https://github.com/AMDResearch/intellikit)** - Building skills and MCP servers that give AI agents structured access to performance-engineering workflows.
 
